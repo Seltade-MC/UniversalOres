@@ -8,7 +8,7 @@ Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth]
 
 # Compatible mods :
 
-Available=✅ Not Tested=❓ Work in progress=⏳ Impossible=❌
+Available=✅ Work in progress=⏳ Impossible=❌
 |Mods|Links|Status|
 |---|---|---|
 |AdAstra|[Github](https://github.com/terrarium-earth/Ad-Astra)/[Modrinth](https://modrinth.com/mod/ad-astra)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ad-astra)|✅|
