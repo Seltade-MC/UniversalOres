@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "A resource pack that adds outlined ores to universal ores by Dyxux.",
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 1000,
+    "supported_formats": [15, 1000]
+  }
+}
