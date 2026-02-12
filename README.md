@@ -43,12 +43,12 @@ Available=✅ Work in progress=⏳ Impossible=❌
 |Oh The Biomes You'll Go|[Github](https://github.com/Potion-Studios/BYG)/[Modrinth](https://modrinth.com/mod/biomesyougo)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)|✅|
 |Oritech|[Github](https://github.com/Rearth/Oritech)/[Modrinth](https://modrinth.com/mod/oritech)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech)|✅|
 |Palladium|[Github](https://github.com/ThreeTAG/Palladium)/[Modrinth](https://modrinth.com/mod/threetag-palladium)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/threetag-palladium)|✅|
-|Pixelmon|[Modrinth](https://modrinth.com/mod/pixelmon)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pixelmon)|⏳|
-|Powah!|[Github](https://github.com/Technici4n/Powah)/[Modrinth](https://modrinth.com/mod/powah)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)|⏳|
-|Railcraft|[Github](https://github.com/Railcraft/Railcraft)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/railcraft)|⏳|
-|Samurai Dynasty|[Github](https://github.com/VeroxUniverse/SamuraiDynasty-neoforge)/[Modrinth](https://modrinth.com/mod/epic-samurais)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty)|⏳|
-|Tech Reborn|[Github](https://github.com/TechReborn/TechReborn)/[Modrinth](https://modrinth.com/mod/techreborn)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/techreborn)|⏳|
-|Thaumcraft|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|⏳|
+|Pixelmon|[Modrinth](https://modrinth.com/mod/pixelmon)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pixelmon)|✅|
+|Powah!|[Github](https://github.com/Technici4n/Powah)/[Modrinth](https://modrinth.com/mod/powah)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)|✅|
+|Railcraft|[Github](https://github.com/Railcraft/Railcraft)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/railcraft)|✅|
+|Samurai Dynasty|[Github](https://github.com/VeroxUniverse/SamuraiDynasty-neoforge)/[Modrinth](https://modrinth.com/mod/epic-samurais)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty)|✅|
+|Tech Reborn|[Github](https://github.com/TechReborn/TechReborn)/[Modrinth](https://modrinth.com/mod/techreborn)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/techreborn)|✅|
+|Thaumcraft|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|✅|
 |Thermal Foundation|[Modrinth](https://modrinth.com/mod/thermal-foundation)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)|⏳|
 |Things|[Github](https://github.com/wisp-forest/things)/[Modrinth](https://modrinth.com/mod/things)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/things-fabric)|⏳|
 |Tinkers Construct|[Github](https://github.com/SlimeKnights/TinkersConstruct)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|⏳|
