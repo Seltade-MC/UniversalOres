@@ -41,8 +41,8 @@ Available=✅ Work in progress=⏳ Impossible=❌
 |Mythic Metals|[Github](https://github.com/Noaaan/MythicMetals)/[Modrinth](https://modrinth.com/mod/mythicmetals)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)|✅|
 |NetherEx|[Github](https://github.com/LogicTechCorp/NetherEx)/[Modrinth](https://modrinth.com/mod/netherex)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherex)|✅|
 |Oh The Biomes You'll Go|[Github](https://github.com/Potion-Studios/BYG)/[Modrinth](https://modrinth.com/mod/biomesyougo)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)|✅|
-|Oritech|[Github](https://github.com/Rearth/Oritech)/[Modrinth](https://modrinth.com/mod/oritech)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech)|⏳|
-|Palladium|[Github](https://github.com/ThreeTAG/Palladium)/[Modrinth](https://modrinth.com/mod/threetag-palladium)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/threetag-palladium)|⏳|
+|Oritech|[Github](https://github.com/Rearth/Oritech)/[Modrinth](https://modrinth.com/mod/oritech)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech)|✅|
+|Palladium|[Github](https://github.com/ThreeTAG/Palladium)/[Modrinth](https://modrinth.com/mod/threetag-palladium)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/threetag-palladium)|✅|
 |Pixelmon|[Modrinth](https://modrinth.com/mod/pixelmon)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pixelmon)|⏳|
 |Powah!|[Github](https://github.com/Technici4n/Powah)/[Modrinth](https://modrinth.com/mod/powah)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)|⏳|
 |Railcraft|[Github](https://github.com/Railcraft/Railcraft)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/railcraft)|⏳|
