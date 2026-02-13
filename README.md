@@ -49,11 +49,11 @@ Available=✅ Work in progress=⏳ Impossible=❌
 |Samurai Dynasty|[Github](https://github.com/VeroxUniverse/SamuraiDynasty-neoforge)/[Modrinth](https://modrinth.com/mod/epic-samurais)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty)|✅|
 |Tech Reborn|[Github](https://github.com/TechReborn/TechReborn)/[Modrinth](https://modrinth.com/mod/techreborn)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/techreborn)|✅|
 |Thaumcraft|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)|✅|
-|Thermal Foundation|[Modrinth](https://modrinth.com/mod/thermal-foundation)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)|⏳|
-|Things|[Github](https://github.com/wisp-forest/things)/[Modrinth](https://modrinth.com/mod/things)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/things-fabric)|⏳|
-|Tinkers Construct|[Github](https://github.com/SlimeKnights/TinkersConstruct)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|⏳|
-|Traincraft|[Github](https://github.com/EternalBlueFlame/Traincraft-5)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/traincraft)|⏳|
+|Thermal Foundation|[Modrinth](https://modrinth.com/mod/thermal-foundation)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)|✅|
+|Things|[Github](https://github.com/wisp-forest/things)/[Modrinth](https://modrinth.com/mod/things)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/things-fabric)|✅|
+|Tinkers Construct|[Github](https://github.com/SlimeKnights/TinkersConstruct)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|✅|
+|Traincraft|[Github](https://github.com/EternalBlueFlame/Traincraft-5)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/traincraft)|✅|
 |Universal Ores|[Github](https://github.com/DawnTeamMC/UniversalOres)/[Modrinth](https://modrinth.com/mod/universal_ores)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric)|✅|
-|Werewolves|[Github](https://github.com/TeamLapen/Werewolves)/[Modrinth](https://modrinth.com/mod/werewolves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)|⏳|
+|Werewolves|[Github](https://github.com/TeamLapen/Werewolves)/[Modrinth](https://modrinth.com/mod/werewolves)/[CurseForge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)|✅|
 
 ### If the ore mod you want is not listed above, please report it [here](https://github.com/Seltade-MC/UniversalOutlinedOres/issues).
