@@ -1,10 +1,5 @@
-The base branch contains all the ores from the mods in their original state.
-
-This is a Minecraft resource pack that adds outlines to ores in mods, making them more visible.
+This is a Minecraft resource pack that adds all ores from all mods.
 It is trying to be compatible with all mods that add ores (work also with vanilla ores) and for all versions of Minecraft.
-It will probably be compatible with OptiFine's connected textures.
-
-Links : [Github](https://github.com/Seltade-MC/UniversalOutlinedOres)/[Modrinth](https://modrinth.com/resourcepack/universal-outlined-ores)
 
 # Compatible mods :
 
